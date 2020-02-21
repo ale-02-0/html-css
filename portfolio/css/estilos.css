@@ -1,0 +1,203 @@
+body
+{
+    font-family: 'Montserrat', sans-serif;
+    background-color:#eeeeee;
+    height:100%;
+
+}
+.navbar
+{
+    padding:0 18%;
+    margin-top:15px;
+    width:100%;
+    overflow:auto;
+}
+.nav-link
+{
+    color:#2d2d2d !important; 
+    text-transform: uppercase;
+    font-size: 18px;    
+    padding:10px;
+    width:60%;
+    text-align: center;
+}
+.nav-link:hover
+{
+    color:#bfa89e!important; 
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 500; 
+    text-decoration:underline;   
+}
+.nav-item
+{
+    width:260px;
+}
+.active
+{
+    text-decoration: underline;
+}
+
+#contacto
+    h1
+    {
+        font-size: 55px;
+        font-weight:700;
+    }
+#contacto
+    p
+    {
+        font-size: 28px;
+        font-weight: bold;
+        padding-top: 10px;
+    }
+#form
+{
+    margin-top:30px;            
+}
+#txtNombre
+{
+    background-color: transparent;
+    border-top:none;
+    border-left: none;
+    border-right: none;
+    border-bottom: solid 1px #2d2d2d;
+}
+#txtEmail
+{
+    background-color: transparent;
+    border-top:none;
+    border-left: none;
+    border-right: none;
+    border-bottom: solid 1px #2d2d2d;
+    
+}
+#txtAsunto
+{
+    background-color: transparent;
+    border-top:none;
+    border-left: none;
+    border-right: none;
+    border-bottom: solid 1px #2d2d2d;
+}
+#txtMensaje
+{
+    background-color: transparent;
+    border-top:none;
+    border-left: none;
+    border-right: none;
+    border-bottom: solid 1px #2d2d2d;7
+    resize:;
+}
+.btnEnviar
+{
+    background-color:black;
+    color:white;
+    width: 120px;
+    height: 40px;
+    border:none;
+    font-weight: 300;
+    display: inline;
+    margin:15px auto;
+    display: block;
+}
+.btnEnviar:hover
+{
+    background-color:white;
+    color:black;
+}
+.link
+{
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+.link:hover
+{
+    text-decoration: underline;
+    font-weight: 500; 
+    color:#bfa89e;
+} 
+.fab 
+{
+    color: black;
+    font-size:50px;
+    letter-spacing:30px;
+}
+.fab:hover
+{
+    color:#bfa89e;
+}
+footer
+{
+    background-color:white;
+    margin-top: 50px;
+}
+
+#proyectos
+    h1
+    {
+        font-size: 55px;
+        font-weight:700;
+    }
+#proyectos
+    h2
+    {
+        font-size: 28px;
+        font-weight:600px;
+        
+    }
+#proyectos
+    .img-fluid
+    {
+        width: 100%;
+        height: 260px;
+    }
+#sobremi
+    .container-fluid
+    {
+        background-color:white!important;
+    }
+#sobremi
+    h1
+    {
+        font-size: 55px;
+        font-weight:700;
+    }
+#sobremi
+    p
+    {
+        font-size: 19px;
+        font-weight: 500;
+    }
+.btn
+{
+    background-color:black;
+    color:white;
+    width: 160px;
+    height: 40px;
+    border:none;
+    font-weight: 300;
+}
+.btn:hover
+{
+    background-color:white;
+    color:black;
+}
+#experiencia
+{
+    background-color: #2d2d2d;
+}
+@media (max-width:700px)<!--siempre colocar los mediajquery de ultimo>
+{
+    h1
+    {
+        font-size: 40px;
+    }
+    #contacto 
+    h2
+    {
+        font-size: 20px;
+        line-height: 30px;
+    }
+}
