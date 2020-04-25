@@ -38,7 +38,7 @@ $page = "sobre mi";
                     <h1>Sobre mi</h1>
                     <h3>Soy una entusiasta del diseño y la progamación , siempre lista para aprender nuevos
                         conocimientos y habilidades.</h3>
-                    <a href="" class="btn mt-4" target="_blank">Descargar CV</a>
+                    <a href="https://drive.google.com/open?id=10YxEKD4Uiy_xMNMtjqGTEtgZgm7cndDb" class="btn mt-4" target="_blank">Descargar CV</a>
                 </div>
                
             </div>

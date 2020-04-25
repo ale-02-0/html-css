@@ -10,7 +10,7 @@
                     <a href="https://www.linkedin.com/in/alejandra-garcía-0/" target="_blank"><i
                             class="fab fa-linkedin-in"></i></a>
                     <a href="https://github.com/ale-02-0" target="_blank"><i class="fab fa-github"></i></a>
-                    <a href="https://www.behance.net/alejandra-garcia-0 target="_blank"><i class="fab fa-behance"></i></a>
+                    <a href="https://www.behance.net/alejandra-garcia-0" target="_blank"><i class="fab fa-behance"></i></a>
                 </div>
                 <div class="col-sm-4 col-12 text-sm-right text-center">
                     Patrocinado por<br><a href="https://depcsuite.com" target="_blank" class="link">DePC Suite</a>
