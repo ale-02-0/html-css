@@ -61,7 +61,7 @@ $page= "proyecto";
                                 <a href="#" class="btn" target="_blank">Ver online</a>
                             </div>
                             <div class="col-6" text-right>
-                                <a href="https://github.com" target="_blank" class="link">Codigo fuente</a>
+                                <a href="https://github.com/ale-02-0/sistema-abm/tree/master/abmclientes" target="_blank" class="link">Codigo fuente</a>
                             </div>
                         </div>
                     </div>
@@ -87,7 +87,7 @@ $page= "proyecto";
                                 <a href="#" class="btn" target="_blank">Ver online</a>
                             </div>
                             <div class="col-6" text-right>
-                                <a href="https://github.com" target="_blank" class="link">Codigo fuente</a>
+                                <a href="https://github.com/ale-02-0/sistema-abm/tree/master/abmventas" target="_blank" class="link">Codigo fuente</a>
                             </div>
                         </div>
                     </div>
