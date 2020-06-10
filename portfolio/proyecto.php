@@ -40,7 +40,7 @@ $page= "proyecto";
                 </div>
             </div>
             <div class="row my-sm-5 my-3">
-                <!--REVISAR-->
+                
                 <div class="col-sm-6 col-12 ">
                     <div class="bg-white">
                         <img src="images/abmventas.png" alt="ABM ventas" class="img-fluid">
@@ -92,6 +92,34 @@ $page= "proyecto";
                         </div>
                     </div>
                 </div>
+            </div>
+            <div class="row my-sm-5 my-3">
+            <div class="col-sm-6 col-12">
+                    <div class="bg-white">
+                        <img src="images/sistema-admin.png" alt="Sistema de gestión" class="img-fluid">
+                        <div class="row p-3">
+                            <div class="col-12">
+                                <h3>Proyecto Laravel</h3>
+                            </div>
+                        </div>
+                        <div class="row p-3">
+                            <div class="col-sm-6 col-12">
+                                <p>Sistema de gestión de clientes, productos y ventas.
+                                    Realizado en HTML, CSS, PHP, MVC, Bootrap, Js, Ajax, jQuery y MySQL de base de
+                                    datos.</p>
+                            </div>
+                        </div>
+                        <div class="row p-3">
+                            <div class="col-6">
+                                <a href="#" class="btn" target="_blank">Ver online</a>
+                            </div>
+                            <div class="col-6" text-right>
+                                <a href="https://github.com/ale-02-0/sistema-abm/tree/master/abmventas" target="_blank" class="link">Codigo fuente</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
             </div>
         </div>
     </section>
